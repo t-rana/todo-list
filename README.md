@@ -206,4 +206,5 @@ This configuration:
 # Things left to implement:
 1. ~~Validation of all request~~
 2. ~~Token refresher~~
-3. Proper handling of jwt failures
+3. Separate out the models from response dto
+4. Proper handling of jwt failures
